@@ -1,1 +1,1 @@
-# Rosalind
+# My Rosalind journey
